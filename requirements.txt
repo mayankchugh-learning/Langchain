@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+openai
+huggingface_hub
+langchain_google_genai
+ChatGoogleGenerativeAI
